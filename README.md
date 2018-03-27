@@ -6,13 +6,13 @@ Simple diner program run in the terminal. Goal was to implement a set of menus u
 
 Run the application.rb file from the terminal:
 
-```
+```bash
 ruby application.rb
 ```
 
 Laugh. Maybe. ^_^
 
 ## TODO:
-[ ] Refactor Validations
-[ ] Rebuild the program using class hierarchy
-[ ] Refactor duplicate sleep and formatting code
+- [ ] Refactor Validations
+- [ ] Rebuild the program using class hierarchy
+- [ ] Refactor duplicate sleep and formatting code
