@@ -18,5 +18,4 @@ def awesome_sauce_diner
   print_receipt
 end
 
-# Run the program
 awesome_sauce_diner
